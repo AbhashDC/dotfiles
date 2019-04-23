@@ -7,7 +7,7 @@ This repository contains machine-specific configuration to accompany my dotfiles
 __Please Note:__ Use as administrator privilage within Git bash terminal.
 
 ```bash
-git clone --recursive git@github.com:shivapoudel/dotfiles.git ~/.dotfiles
+git clone --recursive git@github.com:AbhashDC/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ```
 
@@ -57,4 +57,4 @@ meta/configs/
 
 # License
 
-Copyright (c) 2019 Shiva Poudel | Licensed under [MIT license](http://shivapoudel.mit-license.org)
+Copyright (c) 2019 Abhash DC
